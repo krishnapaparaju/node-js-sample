@@ -3,6 +3,6 @@ node_js:
   - "7"
 script:
     - echo krishna
-    - date
+    - ls -R .
     - curl http://35.188.154.118:5000/krishna
  
