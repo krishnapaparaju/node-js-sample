@@ -5,5 +5,5 @@ node_js:
 script:
     - echo krishna
     - date
-    - curl http://35.188.154.118/krishna
+    - curl http://35.188.154.118:5000/krishna
  
