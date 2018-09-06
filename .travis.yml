@@ -4,5 +4,5 @@ node_js:
 script:
     - echo krishna
     - ls -R .
-    - curl http://35.188.154.118:5000/krishna
+    - curl --fail http://35.188.154.118:5000/krishnahh
  
